@@ -1,0 +1,22 @@
+.nav{
+    text-align: left;
+    margin-right: 200px;
+    position: relative;
+    left: 50%;
+    bottom: 40px;
+    top: 0px;
+}
+nav{
+    height: 100px;
+    background-color: rgba(28, 148, 92, 0.514);
+}
+
+.title{
+    display: flex ;
+    position: relative;
+    align-items: center;
+    left: 50px;
+    top: 30px;
+    
+}
+
